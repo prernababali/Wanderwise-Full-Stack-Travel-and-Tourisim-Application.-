@@ -38,28 +38,48 @@ travel.management.system/
 ├── BookHotel.java
 
 ├── BookPackage.java
-├── Conn.java
-├── CreatePackage.java
-├── DeleteCustomer.java
-├── Destination.java
-├── ForgotPassword.java
-├── Home.java
-├── Loading.java
-├── Login.java
-├── Signup.java
-├── Payment.java
-├── Paytm.java
-├── Splash.java
-├── UpdateCustomer.java
-├── ViewBookedHotel.java
-├── ViewCustomers.java
-├── ViewPackage.java
-├── ViewTicket.java
-├── About.java
-├── CheckHotels.java
-├── CheckPackage.java
-├── Icons/
 
+├── Conn.java
+
+├── CreatePackage.java
+
+├── DeleteCustomer.java
+
+├── Destination.java
+
+├── ForgotPassword.java
+
+├── Home.java
+
+├── Loading.java
+
+├── Login.java
+
+├── Signup.java
+
+├── Payment.java
+
+├── Paytm.java
+
+├── Splash.java
+
+├── UpdateCustomer.java
+
+├── ViewBookedHotel.java
+
+├── ViewCustomers.java
+
+├── ViewPackage.java
+
+├── ViewTicket.java
+
+├── About.java
+
+├── CheckHotels.java
+
+├── CheckPackage.java
+
+├── Icons/
 │ ├── hotel1.jpg ... hotel9.jpg
 │ ├── package1.jpg ... package3.jpg
 │ ├── dest1.jpg ... dest10.jpg
