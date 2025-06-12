@@ -56,6 +56,7 @@ travel.management.system/
 ├── CheckHotels.java
 ├── CheckPackage.java
 ├── Icons/
+
 │ ├── hotel1.jpg ... hotel9.jpg
 │ ├── package1.jpg ... package3.jpg
 │ ├── dest1.jpg ... dest10.jpg
