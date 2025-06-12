@@ -32,8 +32,11 @@ A complete Java-based desktop application for managing travel bookings, customer
 
 travel.management.system/
 │
+
 ├── AddCustomer.java
+
 ├── BookHotel.java
+
 ├── BookPackage.java
 ├── Conn.java
 ├── CreatePackage.java
